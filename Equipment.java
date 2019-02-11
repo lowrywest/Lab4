@@ -124,14 +124,7 @@ public class Equipment
 
         // Check that all fields match (name, count, totalWeight, totalPrice, and description):
       
-        if(name.equals(otherEq.getName()) && count==otherEq.getCount() && totalWeight==otherEq.getTotalWeight() && totalPrice==otherEq.getTotalPrice() && description.equals(otherEq.getDescription()))
-        {
-        	return true;
-        }
-        else 
-        {
-        	return false;
-        }
+        
 
         // TODO: finish method
     }

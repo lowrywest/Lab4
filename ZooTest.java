@@ -5,7 +5,7 @@ public class ZooTest
 	private Animal one= new Animal("Red", "Fox", 10.0, 25.0);
 	private Animal two= new Animal("Brown", "Dog", 85.0, 53.0);
 	private Animal three= new Animal("Yellow", "Bird", 5.0, 9.0);
-	private Zoo idk= new Zoo(2);
+	private Zoo idk= new Zoo(4);
 	
 	public void fill()
 	{
